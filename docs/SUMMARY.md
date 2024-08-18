@@ -4,21 +4,22 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 What We Do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
+* [🔍 MetaBolicEase & Noaris Integration](overview/metabolicease-noaris-integration.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🏥 Patient Journey](product-guides/patient-journey.md)
+* [🔒 Data Flow and Security](product-guides/data-flow-and-security.md)
+* [💻 Technical Infrastructure](product-guides/technical-infrastructure.md)
 
 ## Fundamentals
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠️ Getting Set Up](fundamentals/getting-set-up/README.md)
+  * [📱 Connecting IoT Devices](fundamentals/getting-set-up/connecting-iot-devices.md)
+  * [🔗 Integrating with ABDM](fundamentals/getting-set-up/integrating-with-abdm.md)
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [👨‍⚕️ For Healthcare Providers](use-cases/for-healthcare-providers.md)
