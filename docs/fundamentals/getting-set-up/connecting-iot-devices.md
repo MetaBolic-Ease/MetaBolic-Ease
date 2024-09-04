@@ -1,6 +1,11 @@
 # 📱 Connecting IoT Devices
 
-To fully leverage MetaBolicEase’s real-time monitoring features, you’ll need to connect your IoT devices. Here’s how:
+To fully leverage MetaBolicEase’s real-time monitoring features, you’ll need to connect your IoT devices.
+
+\
+We are leveraging Noaris Depin services for IOT and wearable integrations.\
+\
+Here’s how:
 
 {% tabs %}
 {% tab title="Step 1: Device Compatibility" %}
