@@ -23,3 +23,4 @@
 ## Use Cases
 
 * [👨‍⚕️ For Healthcare Providers](use-cases/for-healthcare-providers.md)
+* [👤For Users](use-cases/for-users.md)
